@@ -1,5 +1,5 @@
 # ArcadiaV3: Secret Garden
-Arcadia game with web game and AI
+Arcadia, a web game with AI
 1. It is a Web page based DApp.
 2. Deployed at Cloudflare with [Arcadia](arcadia.aastar.io)or clone and run in your local machine.
 3. You need create a Web3 [Account](airaccount.aastar.io) or login with your MetaMask to create.
@@ -22,3 +22,22 @@ You can:
 3. Publish your community tasks with xPNTs reward
 4. Publish your organization coupons in the game
 5. more...
+
+## Components
+We want to create a infinity game to exploring the meaning of the life in this age.
+
+### Why
+why should we have a game? not another thing?
+Check why folder.
+
+### Design Wiki
+This repo wiki folder.
+
+
+### Tech Framework
+This repo tech folder.
+
+### Community Nodes
+This repo nodes folder.
+
+### City Runner
